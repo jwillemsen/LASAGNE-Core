@@ -29,7 +29,7 @@ LASAGNE is a pattern-based framework for parallel and distributed computing
   * ACE-TAO 6.5.1  [Vanderbilt](http://download.dre.vanderbilt.edu) | [GitHub](https://github.com/DOCGroup/ACE_TAO)
   * MPC [GitHub](https://github.com/DOCGroup/MPC) (if ACE-TAO is retrieved from GitHub)
 * Optional
-  * OpenDDS 3.12      [OpenDDS](http://opendds.org/downloads.html) | [GitHub](https://github.com/objectcomputing/OpenDDS)
+  * OpenDDS 3.13      [OpenDDS](http://opendds.org/downloads.html) | [GitHub](https://github.com/objectcomputing/OpenDDS)
   * RTI DDS 5.3.0 (plus optional CORBA Compatibility Kit)
   * CoreDX 4.0.12
 
